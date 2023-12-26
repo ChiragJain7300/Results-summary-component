@@ -165,7 +165,6 @@
 
 @media only screen and (min-width: 768px) {
   .mainCont {
-    background-color: beige;
     height: 100vh;
     display: flex;
   }
@@ -176,6 +175,7 @@
     margin: auto;
     height: auto;
     border-radius: 30px;
+    box-shadow: 10px 10px 10px 10px hsl(221, 100%, 96%);
   }
   .section-1 {
     height: 100%;
